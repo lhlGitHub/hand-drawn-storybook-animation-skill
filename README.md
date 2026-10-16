@@ -14,8 +14,8 @@ A Claude Skill for building self-drawing, hand-drawn watercolor picture-book ani
 **Claude Code**
 
 ```bash
-git clone https://github.com/lhlGitHub/and-drawn-storybook-animation-skill.git
-cp -r and-drawn-storybook-animation-skill/hand-drawn-storybook-animation ~/.claude/skills/
+git clone https://github.com/lhlGitHub/hand-drawn-storybook-animation-skill.git
+cp -r hand-drawn-storybook-animation-skill/hand-drawn-storybook-animation ~/.claude/skills/
 ```
 
 ## Use · 使用
